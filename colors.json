@@ -1,0 +1,19 @@
+{
+  "note": "Black theme and ivory theme, as used on openpb.org. Values come from site/src/input.css in the frontend repository.",
+  "black": {
+    "background": "#000000",
+    "text": "#ffffff",
+    "muted": "#bdbdbd",
+    "line": "#3d3d3d",
+    "faint": "#8a8a8a",
+    "surface": "#0d0d0d"
+  },
+  "ivory": {
+    "background": "#f7f3e8",
+    "text": "#17150f",
+    "muted": "#4d493f",
+    "line": "#d8d1bf",
+    "faint": "#6c6658",
+    "surface": "#fcfaf3"
+  }
+}
